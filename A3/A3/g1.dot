@@ -1,0 +1,4 @@
+digraph graphOne{
+ node[fontcolor=white,fontsize=20,shape=rectangle];
+ 2[style="filled",fillcolor="black", label=2]
+}
